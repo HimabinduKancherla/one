@@ -9,7 +9,7 @@
 	<h1 style="color: green; font-size: 40px;" align="center">THIS IS NEW VERSION</h1>
 	<h1 style="color: pink; font-size: 40px;" align="center">WE ARE SUCCESSFULLY DEPLOYED APPLICATION</h1>
 	<h1 style="color: red; font-size: 40px;" align="center">WE INTEGRATED NEXUS TO JENKINS</h1>
-	<h1 style="color: orange; font-size: 40px;" align="center">WE deployed JENKINS war file to tomcat server</h1>	
+	<h1 style="color: orange; font-size: 40px;" align="center">WE deployed JENKINS WAR/JAR/EAR file to tomcat server</h1>	
 	
 	
 	
